@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Projects involving data visualization, <br>machine learning, and statistical analysis to enhance my <br>skills in data science.<br>I’m looking to collaborate on Data-driven projects, <br>open-source contributions, or anything involving <br>predictive modeling and AI applications.<br>I’m currently learning Python for data science, SQL, <br>data wrangling, and libraries like Pandas, NumPy, <br>Matplotlib, and Scikit-learn.<br>⚡ Fun fact I love discovering patterns in data as much <br>as finding Easter eggs in stealth-action video games!
+⇀ I’m currently working on Projects involving data visualization, <br>machine learning, and statistical analysis to enhance my <br>skills in data science.<br> ⇀ I’m looking to collaborate on Data-driven projects, <br>open-source contributions, or anything involving <br>predictive modeling and AI applications.<br> ⇀ I’m currently learning Python for data science, SQL, <br>data wrangling, and libraries like Pandas, NumPy, <br>Matplotlib, and Scikit-learn.<br>⚡ Fun fact I love discovering patterns in data as much <br>as finding Easter eggs in stealth-action video games!
 
 
 ## 🌐 Socials:
